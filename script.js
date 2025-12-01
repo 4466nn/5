@@ -1,4 +1,4 @@
-   // 内存管理优化系统
+// 内存管理优化系统
 class MemoryManager {
     constructor() {
         this.cache = new Map();
@@ -510,10 +510,17 @@ const memoryManager = new MemoryManager();
 { id: 'default2', name: '快乐2', url: 'https://img0.baidu.com/it/u=729244043,2361642918&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=1428' },
 { id: 'default2', name: '详细2', url: 'https://img2.baidu.com/it/u=3072118520,1101095717&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=1100' },
 { id: 'default2', name: '刚刚2', url: 'https://img2.baidu.com/it/u=1932127415,1672580892&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=1083' },
+{ id: 'default2', name: '直接2', url: '7.png' },
+{ id: 'default2', name: '为我2', url: '13.png' },
+{ id: 'default2', name: '快乐2', url: '14.png' },
+{ id: 'default2', name: '详细2', url: '15.png' },
+{ id: 'default2', name: '刚刚2', url: '20.png' },
+
+{ id: 'default2', name: '通过2', url: '11.png' },
 
 { id: 'default2', name: '通过2', url: 'https://p8.itc.cn/q_70/images03/20220427/dab91b3dd0b848af901c92ffabc6857b.gif' },
 { id: 'default2', name: '方法2', url: 'https://img1.baidu.com/it/u=4235326194,1633718395&fm=253&fmt=auto?w=604&h=1216' },
-{ id: 'default2', name: 'VV2', url: 'https://wx4.sinaimg.cn/mw690/006umpLTly1hkavhevat9g30eu0b41ky.gif' },
+{ id: 'default2', name: 'VV2', url: '21.png' },
 { id: 'default2', name: '默哈哈2', url: 'https://img2.baidu.com/it/u=2480550389,3526729658&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889' },
 { id: 'default2', name: '看看2', url: 'https://img0.baidu.com/it/u=3884474057,1967016420&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=750' },
 { id: 'default2', name: '空口2', url: 'https://img1.baidu.com/it/u=554422329,1309679103&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889' },
