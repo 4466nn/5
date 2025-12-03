@@ -513,12 +513,12 @@ const memoryManager = new MemoryManager();
 { id: 'default2', name: '直接2', url: '7.png' },
 { id: 'default2', name: '为我2', url: '13.png' },
 { id: 'default2', name: '快乐2', url: '14.png' },
-{ id: 'default2', name: '详细2', url: '15.png' },
-{ id: 'default2', name: '刚刚2', url: '20.png' },
+{ id: 'default2', name: '详细2', url: 'https://img0.baidu.com/it/u=2162475642,1119870269&fm=253&app=138&f=JPEG?w=800&h=1449' },
+{ id: 'default2', name: '刚刚2', url: 'https://c-ssl.dtstatic.com/uploads/blog/202405/16/2YSaBaEYC6XQD6q.thumb.1000_0.jpg' },
 
 { id: 'default2', name: '通过2', url: 'https://4466nn.github.io/tupian/11.png' },
 
-{ id: 'default2', name: '通过2', url: 'https://p8.itc.cn/q_70/images03/20220427/dab91b3dd0b848af901c92ffabc6857b.gif' },
+{ id: 'default2', name: '通过2', url: 'https://i0.hdslb.com/bfs/new_dyn/3d5efc6c2e88a8f78ef805054595ea2e2006890358.png@1192w_1788h.webp' },
 { id: 'default2', name: '方法2', url: 'https://img1.baidu.com/it/u=2888063772,937122146&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=1100' },
 { id: 'default2', name: 'VV2', url: '21.png' },
 { id: 'default2', name: '默哈哈2', url: 'https://img2.baidu.com/it/u=2280880034,1007311062&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=1100' },
